@@ -9,20 +9,20 @@
 # 使用
 直接下载编译后的版本
 
-windows
+# windows
 
-# nc服务端
+#nc服务端
 nc_server_windows_amd64.exe -p 8084
 
-# nc客户端
+#nc客户端
 nc_client_windows_amd64.exe -h 127.0.0.1 -p 8084
 
-linux
+# linux
 
-# nc服务端
+#nc服务端
 ./nc_server_linux_amd64 -p 8084
 
-# nc客户端
+#nc客户端
 ./nc_client_linux_amd64 -h 127.0.0.1 -p 8084
 
 # 免责声明🧐
